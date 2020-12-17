@@ -34,7 +34,8 @@ body {
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: #45062e;
+  background-color: #ebd2be;
 }
 
 .App-link {
