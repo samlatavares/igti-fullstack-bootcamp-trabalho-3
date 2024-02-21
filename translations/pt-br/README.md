@@ -1,4 +1,4 @@
-# igti-fullstack-bootcamp-desafio-3
+# igti-fullstack-bootcamp-trabalho-3
 
 <img src="https://github.com/samlatavares/igti-fullstack-bootcamp-trabalho-3/blob/main/images/Project%20screenshot.png" alt="Captura de tela do projeto."></img>
 

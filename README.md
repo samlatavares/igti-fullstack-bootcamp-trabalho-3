@@ -1,4 +1,4 @@
-# igti-fullstack-bootcamp-desafio-3
+# igti-fullstack-bootcamp-trabalho-3
 
 <p align="center">
 	<span>English</span> | <a href="https://github.com/samlatavares/igti-fullstack-bootcamp-trabalho-3/blob/main/translations/pt-br/README.md">Português</a>
